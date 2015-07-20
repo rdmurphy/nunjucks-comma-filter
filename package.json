@@ -1,0 +1,28 @@
+{
+  "name": "nunjucks-comma-filter",
+  "version": "1.0.0",
+  "description": "Adds a comma filter to the nunjucks templating library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdmurphy/nunjucks-comma-filter.git"
+  },
+  "keywords": [
+    "nunjucks"
+  ],
+  "author": "Ryan Murphy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rdmurphy/nunjucks-comma-filter/issues"
+  },
+  "homepage": "https://github.com/rdmurphy/nunjucks-comma-filter#readme",
+  "dependencies": {
+    "d3-format": "^0.2.3"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
