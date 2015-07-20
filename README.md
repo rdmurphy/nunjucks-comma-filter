@@ -1,6 +1,6 @@
 # Nunjucks Comma Filter
 
-Nunjucks doesn't have a comma filter! This fixes that.
+[Nunjucks](https://mozilla.github.io/nunjucks/) doesn't have a comma filter! This fixes that.
 
 ## Install
 
