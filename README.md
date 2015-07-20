@@ -1,4 +1,4 @@
-# Nunjucks Comma Filter
+# Nunjucks Comma Filter [![Build Status](https://travis-ci.org/rdmurphy/nunjucks-comma-filter.svg?branch=master)](https://travis-ci.org/rdmurphy/nunjucks-comma-filter)
 
 [Nunjucks](https://mozilla.github.io/nunjucks/) doesn't have a comma filter! This fixes that.
 
