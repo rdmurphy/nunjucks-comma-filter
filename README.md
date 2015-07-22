@@ -20,6 +20,12 @@ var env = nunjucks.configure('app', {watch: false});
 env.addFilter('comma', commaFilter);
 ```
 
+In your nunjucks template:
+
+```html
+{{ number_var|comma }}
+```
+
 ## License
 
 MIT &copy; Ryan Murphy
